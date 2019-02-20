@@ -1,0 +1,15 @@
+{
+  "name": "lions",
+  "version": "1.0.0",
+  "description": "Playground backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cheesyhuy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
